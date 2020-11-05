@@ -21,3 +21,5 @@ The data consist of listing through the five boroughs so I wanted to start with 
 ![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/BoroughCount.png)
 
 ![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/BoroughCount2020.png)
+![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/PieChartJune2019.png) 
+![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/Treemap%20June%202020.png)
