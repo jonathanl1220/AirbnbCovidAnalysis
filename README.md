@@ -15,16 +15,18 @@ The data consist of June 2019 and June 2020 Listings data.
 
 # Exploratory Data Analysis
 
-To better understand the data I wanted to use some exploratory data analysis to determine what section of the dataset I  would utilize.
-The data consist of listing through the five boroughs so I wanted to start with the listings per borough for June 2019 and 2020.
+To better understand the data, I wanted to use some exploratory data analysis to determine what section of the dataset I  would utilize.
+The data consist of listing through the five boroughs, so I wanted to start with the listings per borough for June 2019 and 2020.
 
 ![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/PieChartJune2019.png)
 ![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/Treemap%20June%202020.png)
 
-Although, Brooklyn almost has a similar count to Manhattan, I thought it would be best to analyze Manhattan's listings. To better analyze Manhattan I broke the listing up by Neighbourhoods in Manhattan, and got a count of the listings. I wanted to know if there is a differeence in the amount of listings  between the two periods.
+Although, Brooklyn almost has a similar count to Manhattan, I thought it would be best to analyze Manhattan's listings. To better analyze Manhattan, I broke the listing up by Neighborhoods  in Manhattan, and got a count of the listings. I wanted to know if there is a difference  in the number of listings between the two periods.
 
 ![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/ManhattanListingScatter.png)
 
-With the dataset being divided into their neighbourhoods I wanted to guage the listing prices for the sections of Manhattan. I also wanted to see observe if there was a difference in price of the listings for the two periods. 
+With the dataset being divided into their neighbourhoods I wanted to guage the listing prices for the sections of Manhattan. I also wanted to see observe if there was a difference in **Price** of the listings for the two periods. 
 
 ![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/ManhattanScatterJunePrice.png)
+
+At this point I arrived at the realization that this a Supply and Demand situation. The supply of listings remained  approximately the same in the two periods. The **Price** in the two periods did change with the average increasing by $25. This tells me that the demand for Airbnb has increased in June 2020.
