@@ -33,6 +33,9 @@ At this point I arrived at the realization that this a Supply and Demand situati
 
 
 
-After making my previous observation I decided to run an OLS regression on the **Price** for the two periods. I used **Accommadates** as X value because it was the most statistically significant.
+
+
+
+After making my previous observation I decided to run an OLS regression on the **Price** for the two periods. I used **Accommodates** as X value because it was the most statistically significant.
 ![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/Regression2.png)
 
