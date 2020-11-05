@@ -18,8 +18,7 @@ The data consist of June 2019 and June 2020 Listings data.
 To better understand the data I wanted to use some exploratory data analysis to determine what section of the dataset I  would utilize.
 The data consist of listing through the five boroughs so I wanted to start with the listings per borough for June 2019 and 2020.
 
-![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/PieChartJune2019.png) 
-![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/Treemap%20June%202020.png)
+![image(https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/PieChartJune2019.png![image(https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/Treemap%20June%202020.png)
 
 Although, Brooklyn almost has a similar count to Manhattan, I thought it would be best to analyze Manhattan's listings. To better analyze Manhattan I broke the listing up by Neighbourhoods in Manhattan, and got a count of the listings. I wanted to know if there is a differeence in the amount of listings  between the two periods.
 
