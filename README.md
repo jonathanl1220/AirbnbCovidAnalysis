@@ -18,8 +18,7 @@ The data consist of June 2019 and June 2020 Listings data.
 To better understand the data I wanted to use some exploratory data analysis to determine what section of the dataset I  would utilize.
 The data consist of listing through the five boroughs so I wanted to start with the listings per borough for June 2019 and 2020.
 
-![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/BoroughCount.png)
-
+![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/BoroughCount.png =100x20)
 ![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/BoroughCount2020.png)
 ![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/PieChartJune2019.png) 
 ![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/Treemap%20June%202020.png)
