@@ -17,4 +17,5 @@ The data consist of June 2019 and June 2020 Listings data.
 
 To better understand the data I wanted to use some exploratory data analysis to determine what section of the dataset I  would utilize.
 The data consist of listing through the five boroughs so I wanted to start with the listings per borough.
-master/img/BoroughCount.png
+
+img/BoroughCount.png
