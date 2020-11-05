@@ -36,3 +36,15 @@ At this point I arrived at the realization that this a Supply and Demand situati
 After making my previous observation I decided to run an OLS regression on the **Price** for the two periods. I used **Accommodates** as X value because it was the most statistically significant.
 ![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/Regression2.png)
 
+The regression not only shows that as **Accommodates** increase so does the **Price** but the points are overlapping for the two periods. The regression does not show much of a change in the **Price** in the two periods.
+
+# Conclusion
+
+-The amount of listings have practically remained unchanged through COVID – 19.
+-The price did change in listings mainly in the downtown Manhattan region. 
+-Uptown Manhattan prices remained stagnant.
+
+# Next Steps
+
+- Further analysis on changes in different price factors.
+- Observing a greater range of years to determine the normal Airbnb growth.
