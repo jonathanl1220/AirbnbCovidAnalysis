@@ -7,11 +7,11 @@ I gathered my data from http://insideairbnb.com/get-the-data.html.
 The data consist of June 2019 and June 2020 Listings data.
 
 # Background Information
--Average daily rates were higher for rentals in July 2020 versus July 2019 in the United States — from about $300 to $323. 
+- Average daily rates were higher for rentals in July 2020 versus July 2019 in the United States — from about $300 to $323. 
 
--Home rentals have outperformed hotels in 27 global markets since the onset of Covid-19.
+- Home rentals have outperformed hotels in 27 global markets since the onset of Covid-19.
 
--Airbnb is the biggest player in the short-term rental space 7 million listings in over 220 countries.
+- Airbnb is the biggest player in the short-term rental space 7 million listings in over 220 countries.
 
 # Exploratory Data Analysis
 
@@ -40,9 +40,9 @@ The regression not only shows that as **Accommodates** increase so does the **Pr
 
 # Conclusion
 
--The amount of listings have practically remained unchanged through COVID – 19.
--The price did change in listings mainly in the downtown Manhattan region. 
--Uptown Manhattan prices remained stagnant.
+- The amount of listings have practically remained unchanged through COVID–19.
+- The price did change in listings mainly in the downtown Manhattan region. 
+- Uptown Manhattan prices remained stagnant.
 
 # Next Steps
 
