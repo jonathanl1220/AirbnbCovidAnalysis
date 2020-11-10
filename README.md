@@ -40,7 +40,7 @@ The regression not only shows that as **Accommodates** increase so does the **Pr
 
 # Conclusion
 
-- The amount of listings have practically remained unchanged through COVID–19.
+- The amount of listings have practically remained unchanged in June 2019 and June 2020.
 - The price did change in listings mainly in the downtown Manhattan region. 
 - Uptown Manhattan prices remained stagnant.
 
