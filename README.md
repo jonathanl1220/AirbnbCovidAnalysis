@@ -3,10 +3,10 @@ As a New Yorker I am interested in how the home rental market was affected by Co
 The objective is to observe if there was a change in the Mean Price and Listing for the two periods. 
 
 ## Table of Contents
-1. [Background Information](#background)
-2. [Exploratory Data Analysis](#eda)
+1. [Background Information](#background-information)
+2. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 3. [Conclusion](#conclusion)
-4. [Next Steps](#future-steps)
+4. [Next Steps](#next-steps)
 
 ## Data Source 
 I gathered my data from http://insideairbnb.com/get-the-data.html.
